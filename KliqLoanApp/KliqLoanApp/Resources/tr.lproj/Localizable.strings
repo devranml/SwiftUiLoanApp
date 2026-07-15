@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  KliqLoanApp
+
+  Created by Machine Dev on 14.07.2026.
+  
+*/
+
+"login.navigation.title" = "Kliq Loan";
+"login.email.title" = "E-mail";
+"login.email.placeholder" = "E-mail address";
+"login.password.title" = "Password";
+"login.password.placeholder" = "Password";
+"login.button.sign_in" = "Sign In";
+
+"home.navigation.title" = "Loan Portfolio";
+"home.button.logout" = "Logout";
+"home.empty.title" = "No loans found";
+"home.empty.description" = "There are no loans matching this filter.";
+"home.loading" = "Loading loans...";
+"home.summary.loan_count" = "%d loans in portfolio";
+"home.summary.average_rate" = "Avg. interest rate: %.2f%%";
+"home.loan.remaining_days" = "%d days remaining";
+"home.loan.due_today" = "Due today";
+"home.loan.overdue_days" = "%d days overdue";
+"home.loan.interest" = "%.1f%% interest";
+
+"filter.all" = "All";
+"filter.active" = "Active";
+"filter.overdue" = "Overdue";
+"filter.default" = "Default";
+"filter.paid" = "Paid";
+
+"validation.required" = "This field is required.";
+"validation.invalid_email" = "Invalid e-mail address.";
+"validation.minimum_length" = "Must contain at least %d characters.";
+
+"common.error" = "Error";
+"common.ok" = "OK";
+"error.unsupported_loan_type" = "Unsupported loan type.";
+
+"auth.invalid_credentials" = "Invalid credentials.";
